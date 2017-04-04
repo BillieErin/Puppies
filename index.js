@@ -1,5 +1,5 @@
 function doSomething() {
-  $('body').append('<p>Hello</p>');
+  $('.results').append('<p>Hello</p>');
 }
 
 $(function() {
